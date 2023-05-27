@@ -1,0 +1,7 @@
+type: marketplace
+title: java-course
+language: Russian
+summary: Данный курс предназначен для изучения языка Java
+programming_language: Java
+content:
+- lesson1
